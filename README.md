@@ -9,8 +9,10 @@
 
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a>  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/></a>  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimhs982&theme=algolia&show_icons=true)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimhs982)](https://solved.ac/kimhs982/)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimhs982&theme=algolia&show_icons=true)
 </div>
 
 <!--
