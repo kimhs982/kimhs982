@@ -15,7 +15,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimhs982&theme=algolia&show_icons=true)
 </div>
 
-📫 How to reach me: <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+📫 How to reach me: <a href="mailto:kimhyungsuk982@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
 <!--
 **kimhs982/kimhs982** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
