@@ -2,6 +2,7 @@
 <div align="center">
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimhs982&count_bg=%230C00FF&title_bg=%2300FFDF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  [![wakatime](https://wakatime.com/badge/user/d6e692c4-e686-4f16-823a-5d9639ce293c.svg)](https://wakatime.com/@d6e692c4-e686-4f16-823a-5d9639ce293c)
   
 🌱 I’m currently learning
 
