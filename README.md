@@ -11,9 +11,11 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimhs982)](https://solved.ac/kimhs982/)   ![mazandi profile](http://mazandi.herokuapp.com/api?handle=kimhs982&theme=warm)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimhs982&theme=algolia&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimhs982&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimhs982&layout=compact)](https://github.com/kimhs982/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimhs982)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@kimhs982)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 📫 How to reach me: <a href="mailto:kimhyungsuk982@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
